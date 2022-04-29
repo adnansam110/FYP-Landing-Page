@@ -36,7 +36,10 @@ function Nav() {
               </a>
             </li> */}
 
-            <a className="btn btn-outline-dark start" href="#">
+            <a
+              className="btn btn-outline-dark start"
+              href="https://preventdesktool20220320122202.azurewebsites.net/"
+            >
               Sign Up
             </a>
           </ul>

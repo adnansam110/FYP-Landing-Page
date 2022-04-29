@@ -24,7 +24,10 @@ function Content() {
               {/* <a className="btn btn-primary start-left start-one" href="#">
                 Get Started
               </a> */}
-              <a className="btn btn-outline-light" href="#">
+              <a
+                className="btn btn-outline-light"
+                href="https://preventdesktool20220320122202.azurewebsites.net/"
+              >
                 Get Started
               </a>
             </h6>
